@@ -1,10 +1,12 @@
 # Power Outage Analysis
 
-This project is a Python package designed to analyze power outages. It provides a class for analyzing power outages and a command-line interface for running the analysis.
+A Python package designed to analyze power outage trends using the Electric Disturbance Events (DOE-417) dataset from the U.S. Department of Energy.
 
 ## Data
 
 The data used is from the U.S. Department of Energy website.
+
+It seems that this data has a very inconsistent format over the years. The first thing I will be doing is trying to normalize the data into a consistent format. Unfortunately, no traditional methods will work due to the fields (including dates and times)sometimes being in plain English instead of any standardized format. So, we'll be using OpenAI's models to parse the unparseable.
 
 ### Electric Disturbance Events (DOE-417)
 https://www.oe.netl.doe.gov/oe417.aspx
