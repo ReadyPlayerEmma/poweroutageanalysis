@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+__pycache__/
+temp/**
+!temp/.keep
+*secrets*yml
+.env
+.venv/**
+Pipfile.lock
