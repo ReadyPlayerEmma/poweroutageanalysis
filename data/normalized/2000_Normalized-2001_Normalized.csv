@@ -1,0 +1,31 @@
+"date","time","restoration_time","outage_type","region","area_affected","utility_name","demand_loss_mw","customers_affected","start_datetime","restored_datetime","duration_minutes"
+"12/16/00","11:36 a.m.","6:00 p.m. December 18","Tornado","SERC","Geneva, Southeast Alabama","Alabama Power Co.",,60000,"2000-12-16T11:36:00","2000-12-18T18:00:00",3264
+"8/28/00","11:00 p.m.","August 28","Tripped line","ECAR","Indiana","Southern Indiana Gas & Elec",15,124000,"2000-08-28T23:00:00","2000-08-28T23:59:00",59
+"8/18/00","6:30 p.m.","12:00 p.m. August 20","Severe weather","SERC","North Carolina","Duke Power",500,130000,"2000-08-18T18:30:00","2000-08-20T12:00:00",2490
+"8/10/00","NA","NA","Circuit failure/fire","MAIN","Illinois","Commonwealth Edison Co.",,11000,"2000-08-10T00:00:00",,
+"1/24/00","7:00 p.m.","NA","Ice Storm","SERC","North Carolina & Northern South Carolina","Carolina Power & Light",960,173000,"2000-01-24T19:00:00",,
+"8/10/00","9:30 p.m.","6:00 p.m. August 11","Severe weather","SERC","Alabama","Alabama Power Co",,75000,"2000-08-10T21:30:00","2000-08-11T18:00:00",1230
+"8/6/00","4:00 p.m.","12:00 p.m. August 7","Severe weather","MAIN","Illinois","Commonwealth Edison",,239567,"2000-08-06T16:00:00","2000-08-07T12:00:00",1200
+"8/9/00","6:30 p.m.","11:59 p.m. August 7","Severe weather","ECAR","Ohio","Cinergy Corp",,92000,"2000-08-09T18:30:00","2000-08-07T23:59:00",-2551
+"7/20/00","NA","NA","High winds and thunder","SERC","Alabama","Alabama Power Co",,160000,"2000-07-20T00:00:00",,
+"7/3/00","NA","NA","B-phase to ground fault","ASCC","Alaska","Alaska Elec Light & Power",35,14273,"2000-07-03T00:00:00",,
+"6/28/00","5:52 p.m.","7:14 p.m. June 28","Line Outages/Switch Fire","SERC","Virginia & North Carolina","Virginia Power/North Carolina Power",175,30500,"2000-06-28T17:52:00","2000-06-28T19:14:00",82
+"6/14/00","3:54 p.m.","5:00 p.m. June 14","Tripped Lines Fire","WSCC","Arizona","Tucson Electric Power",138,40911,"2000-06-14T15:54:00","2000-06-14T17:00:00",66
+"6/14/00","3:45 p.m.","NA","Relay Trouble","ECAR","Ohio","American Electric Power",294,,"2000-06-14T15:45:00",,
+"6/14/00","1:13 p.m.","NA","Generating Resources Loss","WSCC","California","Calif. Indep. System Operator",130,32000,"2000-06-14T13:13:00",,
+"5/31/00","1:15 a.m.","NA","Vandalism","WSCC","Arizona","Arizona Public Serv Co.",,,"2000-05-31T01:15:00",,
+"5/25/00","10:00 a.m.","6:00 a.m. June 2","Severe Weather","SERC","North Carolina","Duke Power",500,100000,"2000-05-25T10:00:00","2000-06-02T06:00:00",11280
+"5/24/00","10:15 a.m.","10:14 p.m. May 25","Voltage Elec Usage","SPP","Texas","Entergy",,2000000,"2000-05-24T10:15:00","2000-05-25T22:14:00",2159
+"5/18/00","6:00 p.m.","NA","Severe Weather High Wind","MAIN","Illinois","Commonwealth Edison",,101830,"2000-05-18T18:00:00",,
+"5/21/00","NA","May 22","Thunder/Lightning","SERC","North Carolina","Duke Power",200,50000,"2000-05-21T00:00:00","2000-05-22T23:59:00",2879
+"5/9/00","11:39 a.m.","11:00 p.m. May 9","Energy Conservation","NPCC","New York","Consolidated Edison Co. of New York",,,"2000-05-09T11:39:00","2000-05-09T23:00:00",681
+"5/8/00","NA","NA","Energy Conservation","MAAC","Delaware","Connectiv Power Delivery",,,"2000-05-08T00:00:00",,
+"5/2/00","4:00 a.m.","12:00 p.m. May 2","Severe Weather","ERCOT","Houston, TX","Reliant Energy HL&P",,238000,"2000-05-02T04:00:00","2000-05-02T12:00:00",480
+"4/20/00","NA","NA","Suspected Sabotage","NPCC","NA","Independence Electricity Market Operator",,,"2000-04-20T00:00:00",,
+"4/1/00","NA","NA","Relay Malfunction & Fire","SERC","Virginia","Virginia Power & Electrical Co.",143,37000,"2000-04-01T00:00:00",,
+"4/1/00","NA","NA","Transformer Faulted","FRCC","Texas","City of LakeWorth Utils",46,45000,"2000-04-01T00:00:00",,
+"3/18/00","7:08 p.m.","7:08 p.m. Mar 18","Transmission Line Loss","WSCC","New Mexico","Public Service of New Mexico",1040,500000,"2000-03-18T19:08:00","2000-03-18T19:08:00",0
+"3/18/00","4:00 p.m.","5:10 p.m. Mar 18","Transmission Line Loss","MAIN","Texas","El Paso Elec. Co.",400,100000,"2000-03-18T16:00:00","2000-03-18T17:10:00",70
+"3/14/00","9:06 p.m.","NA","Vandalism","MAIN","Maine","Alliant Energy",,,"2000-03-14T21:06:00",,
+"1/29/00","10:00 p.m.","12:00 p.m. Feb 3","Ice Storm","SERC","South Carolina","Duke Power Co.",300,81000,"2000-01-29T22:00:00","2000-02-03T12:00:00",6600
+"1/23/00","8:00 a.m.","12:00 p.m. Jan 28","Ice Storm","SERC","South Carolina","Duke Power Co.",450,133000,"2000-01-23T08:00:00","2000-01-28T12:00:00",7440

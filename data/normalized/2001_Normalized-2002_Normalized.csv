@@ -1,0 +1,16 @@
+"date","time","restoration_time","outage_type","region","area_affected","utility_name","demand_loss_mw","customers_affected","start_datetime","restored_datetime","duration_minutes"
+"8/9/01","3:11 p.m.","7:12 p.m. August 9","Voltage Reduction","PJM","Virginia","Virginia Electric and Power Co and Dominion Virginia Power Area",0,600000,"2001-08-09T15:11:00","2001-08-09T19:12:00",241
+"6/25/01","1:25 p.m.","9:39 p.m. June 25","Feeder Shutdowns","NPCC","Manhattan New York","Consolidated Edison of New York",,,"2001-06-25T13:25:00","2001-06-25T21:39:00",494
+"6/8/01","7:00 p.m.","8:00 p.m. June 15","Flooding","ERCOT","Texas","Reliant Energy HL&P Service Area",,36073,"2001-06-08T19:00:00","2001-06-15T20:00:00",10140
+"6/6/01","4:22 p.m.","7:09 p.m. June 6","Firm Load Interruption","ERCOT","Rio Grand Valley of Texas","Central Power and Light Company",350,24506,"2001-06-06T16:22:00","2001-06-06T19:09:00",167
+"5/8/01","3:12 p.m.","5:00 p.m. May 8","Interruption of Power","WSCC","California","Southern California Edison",225,70848,"2001-05-08T15:12:00","2001-05-08T17:00:00",108
+"5/8/01","3:10 p.m.","5:30 p.m. May 8","Interruption of Firm Power (Public Appeal)","WSCC","California","CA Independent System Operator",400,,"2001-05-08T15:10:00","2001-05-08T17:30:00",140
+"1/20/01","8:15 a.m.","2:50 p.m. January 21","Firm load interruption","WSCC","California","Calif. Indep. System Operator",300,,"2001-01-20T08:15:00","2001-01-21T14:50:00",1835
+"3/20/01","9:17 a.m. (PST)","2:33 p.m. March 20","Interruption of Firm Power",,"Southern California Area","CA Independent System Operator",500,,"2001-03-20T09:17:00","2001-03-20T14:33:00",316
+"5/7/01","4:45 p.m.","6:00 p.m. May 7","Interruption of Firm Power (Public Appeal)","WSCC","California","CA Independent System Operator",300,,"2001-05-07T16:45:00","2001-05-07T18:00:00",75
+"3/20/01","11:50 a.m. (PST)","2:11 p.m. March 20","Interruption of Firm Power","WSCC","Southern California Area","Southern California Edison",,25000,"2001-03-20T11:50:00","2001-03-20T14:11:00",141
+"3/19/01","11:50 a.m. (PST)","March 19","Interruption of Firm Power","WSCC","Southern California Area","Southern California Edison",,430984,"2001-03-19T11:50:00","2001-03-19T23:59:59",729
+"3/19/01","11:46 a.m. (PST)","9:00 p.m. March 19","Interruption of Firm Power & Public Appeal","WSCC","Southern California Area","CA Independent System Operator",1000,,"2001-03-19T11:46:00","2001-03-19T21:00:00",554
+"3/14/01","3:00 p.m. (CST)","3:00 p.m. March 15","Interruption of Firm Power","ERCOT","Texas Gulf Coast","Reliant Energy",,114000,"2001-03-14T15:00:00","2001-03-15T15:00:00",1440
+"3/6/01","9:17 a.m.","11:00 a.m. March 6","Interruption of Firm Power","ISO","Boston & Northeast Massachusetts","New England",340,130000,"2001-03-06T09:17:00","2001-03-06T11:00:00",103
+"1/17/01","1:45 a.m.","12:00 p.m. January 18","Firm load interruption","WSCC","California","Calif. Indep. System Operator",500,,"2001-01-17T01:45:00","2001-01-18T12:00:00",2055

@@ -22,6 +22,7 @@ All remaining years are in the Excel files.
 
 - Python 3.12+
 - Poetry
+- OpenAI API token
 
 ## Installation of dependencies
 
@@ -30,6 +31,10 @@ In the project root, run:
 ```bash
 poetry install
 ```
+
+## Environment variables
+
+Copy the `.env.example` file to `.env` and fill in the missing values with your own.
 
 ## Running the analysis
 
